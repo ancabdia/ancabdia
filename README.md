@@ -38,7 +38,7 @@ Donde trabajo en el proyecto de nueva aplicación móvil, departamento de <img s
 - **Transformación Digital:** Integración de tecnologías disruptivas para generar valor.  
 - **Aprendizaje Continuo:** Exploración de nuevas tecnologías y metodologías.
 
---
+---
 
 ## 🌐 Conectemos  
 - 💼 **LinkedIn:** [Andrés Cabrera Díaz](https://www.linkedin.com/in/ancabdia/)
