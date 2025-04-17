@@ -45,5 +45,3 @@ Donde trabajo en el proyecto de nueva aplicación móvil, departamento de <img s
 - ✉️ **Correo electrónico:** <a href="mailto:ancabdia.contact@gmail.com">ancabdia.contact@gmail.com</a>
 
 ¡No dudes en contactarme si deseas colaborar o explorar ideas innovadoras juntos!
-
----
